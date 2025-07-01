@@ -1,5 +1,8 @@
-## Hi there 👋
+### Olá! Eu sou o Menezes 👋🏼
 
+[![Menezes GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=devfreiitas&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/devfreiitas/github-readme-stats#gh-dark-mode-only)
+
+Sempre em busca de novos desafios e aprendizados na área de desenvolvimento.
 <!--
 **d6pra/d6pra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
