@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arthur Menezes (aka d6pra) 👋🏼
+### Hi! I'm Arthur Menezes (aka d6pra) 👋
 
 [![Menezes GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=d6pra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/d6pra/github-readme-stats#gh-dark-mode-only)
 
