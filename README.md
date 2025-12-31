@@ -2,7 +2,7 @@
 
 [![Menezes GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=d6pra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/d6pra/github-readme-stats#gh-dark-mode-only)
 
-Sempre em busca de novos desafios e aprendizados na área de desenvolvimento.
+Always seeking new challenges and learning opportunities in the development field.
 <!--
 **d6pra/d6pra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
