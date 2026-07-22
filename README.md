@@ -1,6 +1,6 @@
 ### Hi! I'm Arthur Menezes (aka d6pra) 👋
 
-[![Menezes GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=d6pra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/d6pra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=d6pra&custom_title=GitHub%20stats%20of%20Menezes&show_icons=true&include_all_commits=true&theme=graywhite)](https://github-stats-extended.vercel.app/api?username=d6pra&custom_title=GitHub%20stats%20of%20Menezes&show_icons=true&include_all_commits=true&theme=graywhite)
 
 Always seeking new challenges and learning opportunities in the development field.
 <!--
